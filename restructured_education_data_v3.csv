@@ -1,0 +1,561 @@
+State_UT,Education_Level,Gender,Enrolment,State_Total_Enrolment
+Andaman and Nicobar Islands,Pre-Primary,Boys,1508,73753
+Andhra Pradesh,Pre-Primary,Boys,39414,12051790
+Arunachal Pradesh,Pre-Primary,Boys,8480,337736
+Assam,Pre-Primary,Boys,107652,5654728
+Bihar,Pre-Primary,Boys,137757,11646204
+Chandigarh,Pre-Primary,Boys,6297,305988
+Chhattisgarh,Pre-Primary,Boys,118510,5804564
+Dadra and Nagar Haveli and Daman and Diu,Pre-Primary,Boys,1779,127095
+Delhi,Pre-Primary,Boys,70194,5855747
+Goa,Pre-Primary,Boys,3652,138836
+Gujarat,Pre-Primary,Boys,87635,15350629
+Haryana,Pre-Primary,Boys,120637,11848718
+Himachal Pradesh,Pre-Primary,Boys,33731,1907850
+Jammu and Kashmir,Pre-Primary,Boys,132741,4263385
+Jharkhand,Pre-Primary,Boys,35131,4456019
+Karnataka,Pre-Primary,Boys,127688,18836518
+Kerala,Pre-Primary,Boys,97352,5815264
+Ladakh,Pre-Primary,Boys,3249,102987
+Lakshadweep,Pre-Primary,Boys,0,0
+Madhya Pradesh,Pre-Primary,Boys,387886,23429011
+Maharashtra,Pre-Primary,Boys,178719,23356618
+Manipur,Pre-Primary,Boys,22457,1516614
+Meghalaya,Pre-Primary,Boys,27773,895460
+Mizoram,Pre-Primary,Boys,10327,482184
+Nagaland,Pre-Primary,Boys,20553,951912
+Odisha,Pre-Primary,Boys,22092,4992557
+Puducherry,Pre-Primary,Boys,6353,474014
+Punjab,Pre-Primary,Boys,225078,9967333
+Rajasthan,Pre-Primary,Boys,272335,27590039
+Sikkim,Pre-Primary,Boys,6897,159641
+Tamil Nadu,Pre-Primary,Boys,291301,18533635
+Telangana,Pre-Primary,Boys,77567,12787850
+Tripura,Pre-Primary,Boys,11275,451557
+Uttar Pradesh,Pre-Primary,Boys,217519,76521924
+Uttarakhand,Pre-Primary,Boys,51276,4495636
+Andaman and Nicobar Islands,Pre-Primary,Girls,1468,73753
+Andhra Pradesh,Pre-Primary,Girls,32953,12051790
+Arunachal Pradesh,Pre-Primary,Girls,7359,337736
+Assam,Pre-Primary,Girls,91207,5654728
+Bihar,Pre-Primary,Girls,93981,11646204
+Chandigarh,Pre-Primary,Girls,5653,305988
+Chhattisgarh,Pre-Primary,Girls,105709,5804564
+Dadra and Nagar Haveli and Daman and Diu,Pre-Primary,Girls,1413,127095
+Delhi,Pre-Primary,Girls,58640,5855747
+Goa,Pre-Primary,Girls,3223,138836
+Gujarat,Pre-Primary,Girls,70156,15350629
+Haryana,Pre-Primary,Girls,94646,11848718
+Himachal Pradesh,Pre-Primary,Girls,28483,1907850
+Jammu and Kashmir,Pre-Primary,Girls,114224,4263385
+Jharkhand,Pre-Primary,Girls,26873,4456019
+Karnataka,Pre-Primary,Girls,110615,18836518
+Kerala,Pre-Primary,Girls,91777,5815264
+Ladakh,Pre-Primary,Girls,2779,102987
+Lakshadweep,Pre-Primary,Girls,0,0
+Madhya Pradesh,Pre-Primary,Girls,324364,23429011
+Maharashtra,Pre-Primary,Girls,153547,23356618
+Manipur,Pre-Primary,Girls,20960,1516614
+Meghalaya,Pre-Primary,Girls,27140,895460
+Mizoram,Pre-Primary,Girls,10424,482184
+Nagaland,Pre-Primary,Girls,18788,951912
+Odisha,Pre-Primary,Girls,18148,4992557
+Puducherry,Pre-Primary,Girls,5395,474014
+Punjab,Pre-Primary,Girls,182491,9967333
+Rajasthan,Pre-Primary,Girls,213704,27590039
+Sikkim,Pre-Primary,Girls,6228,159641
+Tamil Nadu,Pre-Primary,Girls,267477,18533635
+Telangana,Pre-Primary,Girls,66400,12787850
+Tripura,Pre-Primary,Girls,9922,451557
+Uttar Pradesh,Pre-Primary,Girls,169070,76521924
+Uttarakhand,Pre-Primary,Girls,41495,4495636
+Andaman and Nicobar Islands,Primary (1 to 5),Boys,5144,73753
+Andhra Pradesh,Primary (1 to 5),Boys,789604,12051790
+Arunachal Pradesh,Primary (1 to 5),Boys,27338,337736
+Assam,Primary (1 to 5),Boys,391625,5654728
+Bihar,Primary (1 to 5),Boys,776343,11646204
+Chandigarh,Primary (1 to 5),Boys,17812,305988
+Chhattisgarh,Primary (1 to 5),Boys,403938,5804564
+Dadra and Nagar Haveli and Daman and Diu,Primary (1 to 5),Boys,9471,127095
+Delhi,Primary (1 to 5),Boys,417578,5855747
+Goa,Primary (1 to 5),Boys,12978,138836
+Gujarat,Primary (1 to 5),Boys,1107303,15350629
+Haryana,Primary (1 to 5),Boys,780210,11848718
+Himachal Pradesh,Primary (1 to 5),Boys,131356,1907850
+Jammu and Kashmir,Primary (1 to 5),Boys,295461,4263385
+Jharkhand,Primary (1 to 5),Boys,188375,4456019
+Karnataka,Primary (1 to 5),Boys,1318518,18836518
+Kerala,Primary (1 to 5),Boys,406191,5815264
+Ladakh,Primary (1 to 5),Boys,6943,102987
+Lakshadweep,Primary (1 to 5),Boys,0,0
+Madhya Pradesh,Primary (1 to 5),Boys,1639135,23429011
+Maharashtra,Primary (1 to 5),Boys,1701667,23356618
+Manipur,Primary (1 to 5),Boys,85789,1516614
+Meghalaya,Primary (1 to 5),Boys,60485,895460
+Mizoram,Primary (1 to 5),Boys,31158,482184
+Nagaland,Primary (1 to 5),Boys,57764,951912
+Odisha,Primary (1 to 5),Boys,376603,4992557
+Puducherry,Primary (1 to 5),Boys,28908,474014
+Punjab,Primary (1 to 5),Boys,652227,9967333
+Rajasthan,Primary (1 to 5),Boys,2043800,27590039
+Sikkim,Primary (1 to 5),Boys,12200,159641
+Tamil Nadu,Primary (1 to 5),Boys,1264913,18533635
+Telangana,Primary (1 to 5),Boys,835713,12787850
+Tripura,Primary (1 to 5),Boys,32023,451557
+Uttar Pradesh,Primary (1 to 5),Boys,4874764,76521924
+Uttarakhand,Primary (1 to 5),Boys,320665,4495636
+Andaman and Nicobar Islands,Primary (1 to 5),Girls,4656,73753
+Andhra Pradesh,Primary (1 to 5),Girls,634492,12051790
+Arunachal Pradesh,Primary (1 to 5),Girls,22606,337736
+Assam,Primary (1 to 5),Girls,328619,5654728
+Bihar,Primary (1 to 5),Girls,520403,11646204
+Chandigarh,Primary (1 to 5),Girls,14953,305988
+Chhattisgarh,Primary (1 to 5),Girls,352959,5804564
+Dadra and Nagar Haveli and Daman and Diu,Primary (1 to 5),Girls,7096,127095
+Delhi,Primary (1 to 5),Girls,312993,5855747
+Goa,Primary (1 to 5),Girls,11108,138836
+Gujarat,Primary (1 to 5),Girls,848011,15350629
+Haryana,Primary (1 to 5),Girls,562248,11848718
+Himachal Pradesh,Primary (1 to 5),Girls,107292,1907850
+Jammu and Kashmir,Primary (1 to 5),Girls,244353,4263385
+Jharkhand,Primary (1 to 5),Girls,137348,4456019
+Karnataka,Primary (1 to 5),Girls,1087963,18836518
+Kerala,Primary (1 to 5),Girls,373091,5815264
+Ladakh,Primary (1 to 5),Girls,6202,102987
+Lakshadweep,Primary (1 to 5),Girls,0,0
+Madhya Pradesh,Primary (1 to 5),Girls,1312743,23429011
+Maharashtra,Primary (1 to 5),Girls,1356404,23356618
+Manipur,Primary (1 to 5),Girls,79866,1516614
+Meghalaya,Primary (1 to 5),Girls,60224,895460
+Mizoram,Primary (1 to 5),Girls,30664,482184
+Nagaland,Primary (1 to 5),Girls,51979,951912
+Odisha,Primary (1 to 5),Girls,293400,4992557
+Puducherry,Primary (1 to 5),Girls,23702,474014
+Punjab,Primary (1 to 5),Girls,513345,9967333
+Rajasthan,Primary (1 to 5),Girls,1521095,27590039
+Sikkim,Primary (1 to 5),Girls,10713,159641
+Tamil Nadu,Primary (1 to 5),Girls,1098840,18533635
+Telangana,Primary (1 to 5),Girls,710712,12787850
+Tripura,Primary (1 to 5),Girls,26607,451557
+Uttar Pradesh,Primary (1 to 5),Girls,3913110,76521924
+Uttarakhand,Primary (1 to 5),Girls,254133,4495636
+Andaman and Nicobar Islands,Upper Primary (6-8),Boys,2361,73753
+Andhra Pradesh,Upper Primary (6-8),Boys,418029,12051790
+Arunachal Pradesh,Upper Primary (6-8),Boys,10706,337736
+Assam,Upper Primary (6-8),Boys,187184,5654728
+Bihar,Upper Primary (6-8),Boys,396671,11646204
+Chandigarh,Upper Primary (6-8),Boys,10801,305988
+Chhattisgarh,Upper Primary (6-8),Boys,184860,5804564
+Dadra and Nagar Haveli and Daman and Diu,Upper Primary (6-8),Boys,4710,127095
+Delhi,Upper Primary (6-8),Boys,225324,5855747
+Goa,Upper Primary (6-8),Boys,2215,138836
+Gujarat,Upper Primary (6-8),Boys,621885,15350629
+Haryana,Upper Primary (6-8),Boys,479889,11848718
+Himachal Pradesh,Upper Primary (6-8),Boys,68642,1907850
+Jammu and Kashmir,Upper Primary (6-8),Boys,147435,4263385
+Jharkhand,Upper Primary (6-8),Boys,155333,4456019
+Karnataka,Upper Primary (6-8),Boys,665322,18836518
+Kerala,Upper Primary (6-8),Boys,183653,5815264
+Ladakh,Upper Primary (6-8),Boys,3455,102987
+Lakshadweep,Upper Primary (6-8),Boys,0,0
+Madhya Pradesh,Upper Primary (6-8),Boys,919007,23429011
+Maharashtra,Upper Primary (6-8),Boys,833071,23356618
+Manipur,Upper Primary (6-8),Boys,53460,1516614
+Meghalaya,Upper Primary (6-8),Boys,15854,895460
+Mizoram,Upper Primary (6-8),Boys,14738,482184
+Nagaland,Upper Primary (6-8),Boys,31799,951912
+Odisha,Upper Primary (6-8),Boys,160413,4992557
+Puducherry,Upper Primary (6-8),Boys,17179,474014
+Punjab,Upper Primary (6-8),Boys,347799,9967333
+Rajasthan,Upper Primary (6-8),Boys,1043962,27590039
+Sikkim,Upper Primary (6-8),Boys,3943,159641
+Tamil Nadu,Upper Primary (6-8),Boys,571593,18533635
+Telangana,Upper Primary (6-8),Boys,462938,12787850
+Tripura,Upper Primary (6-8),Boys,14851,451557
+Uttar Pradesh,Upper Primary (6-8),Boys,2641873,76521924
+Uttarakhand,Upper Primary (6-8),Boys,169292,4495636
+Andaman and Nicobar Islands,Upper Primary (6-8),Girls,2162,73753
+Andhra Pradesh,Upper Primary (6-8),Girls,316656,12051790
+Arunachal Pradesh,Upper Primary (6-8),Girls,8105,337736
+Assam,Upper Primary (6-8),Girls,160754,5654728
+Bihar,Upper Primary (6-8),Girls,265754,11646204
+Chandigarh,Upper Primary (6-8),Girls,8815,305988
+Chhattisgarh,Upper Primary (6-8),Girls,156226,5804564
+Dadra and Nagar Haveli and Daman and Diu,Upper Primary (6-8),Girls,3341,127095
+Delhi,Upper Primary (6-8),Girls,155120,5855747
+Goa,Upper Primary (6-8),Girls,2071,138836
+Gujarat,Upper Primary (6-8),Girls,463917,15350629
+Haryana,Upper Primary (6-8),Girls,336053,11848718
+Himachal Pradesh,Upper Primary (6-8),Girls,54162,1907850
+Jammu and Kashmir,Upper Primary (6-8),Girls,118002,4263385
+Jharkhand,Upper Primary (6-8),Girls,114506,4456019
+Karnataka,Upper Primary (6-8),Girls,543463,18836518
+Kerala,Upper Primary (6-8),Girls,168795,5815264
+Ladakh,Upper Primary (6-8),Girls,3141,102987
+Lakshadweep,Upper Primary (6-8),Girls,0,0
+Madhya Pradesh,Upper Primary (6-8),Girls,699888,23429011
+Maharashtra,Upper Primary (6-8),Girls,620527,23356618
+Manipur,Upper Primary (6-8),Girls,50418,1516614
+Meghalaya,Upper Primary (6-8),Girls,16809,895460
+Mizoram,Upper Primary (6-8),Girls,14739,482184
+Nagaland,Upper Primary (6-8),Girls,29238,951912
+Odisha,Upper Primary (6-8),Girls,119228,4992557
+Puducherry,Upper Primary (6-8),Girls,14033,474014
+Punjab,Upper Primary (6-8),Girls,268340,9967333
+Rajasthan,Upper Primary (6-8),Girls,712407,27590039
+Sikkim,Upper Primary (6-8),Girls,3167,159641
+Tamil Nadu,Upper Primary (6-8),Girls,467226,18533635
+Telangana,Upper Primary (6-8),Girls,379440,12787850
+Tripura,Upper Primary (6-8),Girls,12177,451557
+Uttar Pradesh,Upper Primary (6-8),Girls,2192422,76521924
+Uttarakhand,Upper Primary (6-8),Girls,128175,4495636
+Andaman and Nicobar Islands,Elementary (1-8),Boys,7505,73753
+Andhra Pradesh,Elementary (1-8),Boys,1207633,12051790
+Arunachal Pradesh,Elementary (1-8),Boys,38044,337736
+Assam,Elementary (1-8),Boys,578809,5654728
+Bihar,Elementary (1-8),Boys,1173014,11646204
+Chandigarh,Elementary (1-8),Boys,28613,305988
+Chhattisgarh,Elementary (1-8),Boys,588798,5804564
+Dadra and Nagar Haveli and Daman and Diu,Elementary (1-8),Boys,14181,127095
+Delhi,Elementary (1-8),Boys,642902,5855747
+Goa,Elementary (1-8),Boys,15193,138836
+Gujarat,Elementary (1-8),Boys,1729188,15350629
+Haryana,Elementary (1-8),Boys,1260099,11848718
+Himachal Pradesh,Elementary (1-8),Boys,199998,1907850
+Jammu and Kashmir,Elementary (1-8),Boys,442896,4263385
+Jharkhand,Elementary (1-8),Boys,343708,4456019
+Karnataka,Elementary (1-8),Boys,1983840,18836518
+Kerala,Elementary (1-8),Boys,589844,5815264
+Ladakh,Elementary (1-8),Boys,10398,102987
+Lakshadweep,Elementary (1-8),Boys,0,0
+Madhya Pradesh,Elementary (1-8),Boys,2558142,23429011
+Maharashtra,Elementary (1-8),Boys,2534738,23356618
+Manipur,Elementary (1-8),Boys,139249,1516614
+Meghalaya,Elementary (1-8),Boys,76339,895460
+Mizoram,Elementary (1-8),Boys,45896,482184
+Nagaland,Elementary (1-8),Boys,89563,951912
+Odisha,Elementary (1-8),Boys,537016,4992557
+Puducherry,Elementary (1-8),Boys,46087,474014
+Punjab,Elementary (1-8),Boys,1000026,9967333
+Rajasthan,Elementary (1-8),Boys,3087762,27590039
+Sikkim,Elementary (1-8),Boys,16143,159641
+Tamil Nadu,Elementary (1-8),Boys,1836506,18533635
+Telangana,Elementary (1-8),Boys,1298651,12787850
+Tripura,Elementary (1-8),Boys,46874,451557
+Uttar Pradesh,Elementary (1-8),Boys,7516637,76521924
+Uttarakhand,Elementary (1-8),Boys,489957,4495636
+Andaman and Nicobar Islands,Elementary (1-8),Girls,6818,73753
+Andhra Pradesh,Elementary (1-8),Girls,951148,12051790
+Arunachal Pradesh,Elementary (1-8),Girls,30711,337736
+Assam,Elementary (1-8),Girls,489373,5654728
+Bihar,Elementary (1-8),Girls,786157,11646204
+Chandigarh,Elementary (1-8),Girls,23768,305988
+Chhattisgarh,Elementary (1-8),Girls,509185,5804564
+Dadra and Nagar Haveli and Daman and Diu,Elementary (1-8),Girls,10437,127095
+Delhi,Elementary (1-8),Girls,468113,5855747
+Goa,Elementary (1-8),Girls,13179,138836
+Gujarat,Elementary (1-8),Girls,1311928,15350629
+Haryana,Elementary (1-8),Girls,898301,11848718
+Himachal Pradesh,Elementary (1-8),Girls,161454,1907850
+Jammu and Kashmir,Elementary (1-8),Girls,362355,4263385
+Jharkhand,Elementary (1-8),Girls,251854,4456019
+Karnataka,Elementary (1-8),Girls,1631426,18836518
+Kerala,Elementary (1-8),Girls,541886,5815264
+Ladakh,Elementary (1-8),Girls,9343,102987
+Lakshadweep,Elementary (1-8),Girls,0,0
+Madhya Pradesh,Elementary (1-8),Girls,2012631,23429011
+Maharashtra,Elementary (1-8),Girls,1976931,23356618
+Manipur,Elementary (1-8),Girls,130284,1516614
+Meghalaya,Elementary (1-8),Girls,77033,895460
+Mizoram,Elementary (1-8),Girls,45403,482184
+Nagaland,Elementary (1-8),Girls,81217,951912
+Odisha,Elementary (1-8),Girls,412628,4992557
+Puducherry,Elementary (1-8),Girls,37735,474014
+Punjab,Elementary (1-8),Girls,781685,9967333
+Rajasthan,Elementary (1-8),Girls,2233502,27590039
+Sikkim,Elementary (1-8),Girls,13880,159641
+Tamil Nadu,Elementary (1-8),Girls,1566066,18533635
+Telangana,Elementary (1-8),Girls,1090152,12787850
+Tripura,Elementary (1-8),Girls,38784,451557
+Uttar Pradesh,Elementary (1-8),Girls,6105532,76521924
+Uttarakhand,Elementary (1-8),Girls,382308,4495636
+Andaman and Nicobar Islands,Secondary (9-10),Boys,1071,73753
+Andhra Pradesh,Secondary (9-10),Boys,266457,12051790
+Arunachal Pradesh,Secondary (9-10),Boys,3884,337736
+Assam,Secondary (9-10),Boys,103964,5654728
+Bihar,Secondary (9-10),Boys,286714,11646204
+Chandigarh,Secondary (9-10),Boys,7496,305988
+Chhattisgarh,Secondary (9-10),Boys,94175,5804564
+Dadra and Nagar Haveli and Daman and Diu,Secondary (9-10),Boys,2769,127095
+Delhi,Secondary (9-10),Boys,121935,5855747
+Goa,Secondary (9-10),Boys,1180,138836
+Gujarat,Secondary (9-10),Boys,313106,15350629
+Haryana,Secondary (9-10),Boys,311080,11848718
+Himachal Pradesh,Secondary (9-10),Boys,40523,1907850
+Jammu and Kashmir,Secondary (9-10),Boys,74806,4263385
+Jharkhand,Secondary (9-10),Boys,181921,4456019
+Karnataka,Secondary (9-10),Boys,375777,18836518
+Kerala,Secondary (9-10),Boys,95902,5815264
+Ladakh,Secondary (9-10),Boys,1588,102987
+Lakshadweep,Secondary (9-10),Boys,0,0
+Madhya Pradesh,Secondary (9-10),Boys,399644,23429011
+Maharashtra,Secondary (9-10),Boys,513065,23356618
+Manipur,Secondary (9-10),Boys,32990,1516614
+Meghalaya,Secondary (9-10),Boys,15276,895460
+Mizoram,Secondary (9-10),Boys,6431,482184
+Nagaland,Secondary (9-10),Boys,19863,951912
+Odisha,Secondary (9-10),Boys,69405,4992557
+Puducherry,Secondary (9-10),Boys,11383,474014
+Punjab,Secondary (9-10),Boys,215569,9967333
+Rajasthan,Secondary (9-10),Boys,578170,27590039
+Sikkim,Secondary (9-10),Boys,1748,159641
+Tamil Nadu,Secondary (9-10),Boys,378268,18533635
+Telangana,Secondary (9-10),Boys,281920,12787850
+Tripura,Secondary (9-10),Boys,7955,451557
+Uttar Pradesh,Secondary (9-10),Boys,2251866,76521924
+Uttarakhand,Secondary (9-10),Boys,89234,4495636
+Andaman and Nicobar Islands,Secondary (9-10),Girls,1091,73753
+Andhra Pradesh,Secondary (9-10),Girls,205300,12051790
+Arunachal Pradesh,Secondary (9-10),Girls,3226,337736
+Assam,Secondary (9-10),Girls,91565,5654728
+Bihar,Secondary (9-10),Girls,220909,11646204
+Chandigarh,Secondary (9-10),Girls,5797,305988
+Chhattisgarh,Secondary (9-10),Girls,78880,5804564
+Dadra and Nagar Haveli and Daman and Diu,Secondary (9-10),Girls,1872,127095
+Delhi,Secondary (9-10),Girls,82184,5855747
+Goa,Secondary (9-10),Girls,1120,138836
+Gujarat,Secondary (9-10),Girls,211188,15350629
+Haryana,Secondary (9-10),Girls,211566,11848718
+Himachal Pradesh,Secondary (9-10),Girls,30945,1907850
+Jammu and Kashmir,Secondary (9-10),Girls,59635,4263385
+Jharkhand,Secondary (9-10),Girls,151905,4456019
+Karnataka,Secondary (9-10),Girls,310929,18836518
+Kerala,Secondary (9-10),Girls,92501,5815264
+Ladakh,Secondary (9-10),Girls,1519,102987
+Lakshadweep,Secondary (9-10),Girls,0,0
+Madhya Pradesh,Secondary (9-10),Girls,289275,23429011
+Maharashtra,Secondary (9-10),Girls,379242,23356618
+Manipur,Secondary (9-10),Girls,32035,1516614
+Meghalaya,Secondary (9-10),Girls,18366,895460
+Mizoram,Secondary (9-10),Girls,6551,482184
+Nagaland,Secondary (9-10),Girls,19397,951912
+Odisha,Secondary (9-10),Girls,53710,4992557
+Puducherry,Secondary (9-10),Girls,8964,474014
+Punjab,Secondary (9-10),Girls,165008,9967333
+Rajasthan,Secondary (9-10),Girls,365255,27590039
+Sikkim,Secondary (9-10),Girls,1391,159641
+Tamil Nadu,Secondary (9-10),Girls,302205,18533635
+Telangana,Secondary (9-10),Girls,230182,12787850
+Tripura,Secondary (9-10),Girls,6489,451557
+Uttar Pradesh,Secondary (9-10),Girls,1855152,76521924
+Uttarakhand,Secondary (9-10),Girls,64062,4495636
+Andaman and Nicobar Islands,Higher Secondary (11-12),Boys,678,73753
+Andhra Pradesh,Higher Secondary (11-12),Boys,319839,12051790
+Arunachal Pradesh,Higher Secondary (11-12),Boys,1601,337736
+Assam,Higher Secondary (11-12),Boys,66065,5654728
+Bihar,Higher Secondary (11-12),Boys,333463,11646204
+Chandigarh,Higher Secondary (11-12),Boys,6008,305988
+Chhattisgarh,Higher Secondary (11-12),Boys,79893,5804564
+Dadra and Nagar Haveli and Daman and Diu,Higher Secondary (11-12),Boys,1602,127095
+Delhi,Higher Secondary (11-12),Boys,106445,5855747
+Goa,Higher Secondary (11-12),Boys,866,138836
+Gujarat,Higher Secondary (11-12),Boys,256138,15350629
+Haryana,Higher Secondary (11-12),Boys,235324,11848718
+Himachal Pradesh,Higher Secondary (11-12),Boys,23054,1907850
+Jammu and Kashmir,Higher Secondary (11-12),Boys,27366,4263385
+Jharkhand,Higher Secondary (11-12),Boys,169167,4456019
+Karnataka,Higher Secondary (11-12),Boys,314949,18836518
+Kerala,Higher Secondary (11-12),Boys,58373,5815264
+Ladakh,Higher Secondary (11-12),Boys,388,102987
+Lakshadweep,Higher Secondary (11-12),Boys,0,0
+Madhya Pradesh,Higher Secondary (11-12),Boys,322007,23429011
+Maharashtra,Higher Secondary (11-12),Boys,373015,23356618
+Manipur,Higher Secondary (11-12),Boys,26631,1516614
+Meghalaya,Higher Secondary (11-12),Boys,10774,895460
+Mizoram,Higher Secondary (11-12),Boys,6025,482184
+Nagaland,Higher Secondary (11-12),Boys,11483,951912
+Odisha,Higher Secondary (11-12),Boys,124069,4992557
+Puducherry,Higher Secondary (11-12),Boys,9964,474014
+Punjab,Higher Secondary (11-12),Boys,164146,9967333
+Rajasthan,Higher Secondary (11-12),Boys,515921,27590039
+Sikkim,Higher Secondary (11-12),Boys,677,159641
+Tamil Nadu,Higher Secondary (11-12),Boys,317638,18533635
+Telangana,Higher Secondary (11-12),Boys,251183,12787850
+Tripura,Higher Secondary (11-12),Boys,4048,451557
+Uttar Pradesh,Higher Secondary (11-12),Boys,1621512,76521924
+Uttarakhand,Higher Secondary (11-12),Boys,69889,4495636
+Andaman and Nicobar Islands,Higher Secondary (11-12),Girls,663,73753
+Andhra Pradesh,Higher Secondary (11-12),Girls,299048,12051790
+Arunachal Pradesh,Higher Secondary (11-12),Girls,1635,337736
+Assam,Higher Secondary (11-12),Girls,66500,5654728
+Bihar,Higher Secondary (11-12),Girls,274262,11646204
+Chandigarh,Higher Secondary (11-12),Girls,4887,305988
+Chhattisgarh,Higher Secondary (11-12),Girls,68450,5804564
+Dadra and Nagar Haveli and Daman and Diu,Higher Secondary (11-12),Girls,1170,127095
+Delhi,Higher Secondary (11-12),Girls,74109,5855747
+Goa,Higher Secondary (11-12),Girls,700,138836
+Gujarat,Higher Secondary (11-12),Girls,176429,15350629
+Haryana,Higher Secondary (11-12),Girls,170214,11848718
+Himachal Pradesh,Higher Secondary (11-12),Girls,18016,1907850
+Jammu and Kashmir,Higher Secondary (11-12),Girls,21010,4263385
+Jharkhand,Higher Secondary (11-12),Girls,146928,4456019
+Karnataka,Higher Secondary (11-12),Girls,297961,18836518
+Kerala,Higher Secondary (11-12),Girls,56586,5815264
+Ladakh,Higher Secondary (11-12),Girls,494,102987
+Lakshadweep,Higher Secondary (11-12),Girls,0,0
+Madhya Pradesh,Higher Secondary (11-12),Girls,229547,23429011
+Maharashtra,Higher Secondary (11-12),Girls,283148,23356618
+Manipur,Higher Secondary (11-12),Girls,25560,1516614
+Meghalaya,Higher Secondary (11-12),Girls,12966,895460
+Mizoram,Higher Secondary (11-12),Girls,6155,482184
+Nagaland,Higher Secondary (11-12),Girls,12627,951912
+Odisha,Higher Secondary (11-12),Girls,123983,4992557
+Puducherry,Higher Secondary (11-12),Girls,8099,474014
+Punjab,Higher Secondary (11-12),Girls,130394,9967333
+Rajasthan,Higher Secondary (11-12),Girls,318289,27590039
+Sikkim,Higher Secondary (11-12),Girls,617,159641
+Tamil Nadu,Higher Secondary (11-12),Girls,270486,18533635
+Telangana,Higher Secondary (11-12),Girls,218283,12787850
+Tripura,Higher Secondary (11-12),Girls,3685,451557
+Uttar Pradesh,Higher Secondary (11-12),Girls,1358160,76521924
+Uttarakhand,Higher Secondary (11-12),Girls,50493,4495636
+Andaman and Nicobar Islands,Primary to Higher Secondary (1-12),Boys,9254,73753
+Andhra Pradesh,Primary to Higher Secondary (1-12),Boys,1793929,12051790
+Arunachal Pradesh,Primary to Higher Secondary (1-12),Boys,43529,337736
+Assam,Primary to Higher Secondary (1-12),Boys,748838,5654728
+Bihar,Primary to Higher Secondary (1-12),Boys,1793191,11646204
+Chandigarh,Primary to Higher Secondary (1-12),Boys,42117,305988
+Chhattisgarh,Primary to Higher Secondary (1-12),Boys,762866,5804564
+Dadra and Nagar Haveli and Daman and Diu,Primary to Higher Secondary (1-12),Boys,18552,127095
+Delhi,Primary to Higher Secondary (1-12),Boys,871282,5855747
+Goa,Primary to Higher Secondary (1-12),Boys,17239,138836
+Gujarat,Primary to Higher Secondary (1-12),Boys,2298432,15350629
+Haryana,Primary to Higher Secondary (1-12),Boys,1806503,11848718
+Himachal Pradesh,Primary to Higher Secondary (1-12),Boys,263575,1907850
+Jammu and Kashmir,Primary to Higher Secondary (1-12),Boys,545068,4263385
+Jharkhand,Primary to Higher Secondary (1-12),Boys,694796,4456019
+Karnataka,Primary to Higher Secondary (1-12),Boys,2674566,18836518
+Kerala,Primary to Higher Secondary (1-12),Boys,744119,5815264
+Ladakh,Primary to Higher Secondary (1-12),Boys,12374,102987
+Lakshadweep,Primary to Higher Secondary (1-12),Boys,0,0
+Madhya Pradesh,Primary to Higher Secondary (1-12),Boys,3279793,23429011
+Maharashtra,Primary to Higher Secondary (1-12),Boys,3420818,23356618
+Manipur,Primary to Higher Secondary (1-12),Boys,198870,1516614
+Meghalaya,Primary to Higher Secondary (1-12),Boys,102389,895460
+Mizoram,Primary to Higher Secondary (1-12),Boys,58352,482184
+Nagaland,Primary to Higher Secondary (1-12),Boys,120909,951912
+Odisha,Primary to Higher Secondary (1-12),Boys,730490,4992557
+Puducherry,Primary to Higher Secondary (1-12),Boys,67434,474014
+Punjab,Primary to Higher Secondary (1-12),Boys,1379741,9967333
+Rajasthan,Primary to Higher Secondary (1-12),Boys,4181853,27590039
+Sikkim,Primary to Higher Secondary (1-12),Boys,18568,159641
+Tamil Nadu,Primary to Higher Secondary (1-12),Boys,2532412,18533635
+Telangana,Primary to Higher Secondary (1-12),Boys,1831754,12787850
+Tripura,Primary to Higher Secondary (1-12),Boys,58877,451557
+Uttar Pradesh,Primary to Higher Secondary (1-12),Boys,11390015,76521924
+Uttarakhand,Primary to Higher Secondary (1-12),Boys,649080,4495636
+Andaman and Nicobar Islands,Primary to Higher Secondary (1-12),Girls,8572,73753
+Andhra Pradesh,Primary to Higher Secondary (1-12),Girls,1455496,12051790
+Arunachal Pradesh,Primary to Higher Secondary (1-12),Girls,35572,337736
+Assam,Primary to Higher Secondary (1-12),Girls,647438,5654728
+Bihar,Primary to Higher Secondary (1-12),Girls,1281328,11646204
+Chandigarh,Primary to Higher Secondary (1-12),Girls,34452,305988
+Chhattisgarh,Primary to Higher Secondary (1-12),Girls,656515,5804564
+Dadra and Nagar Haveli and Daman and Diu,Primary to Higher Secondary (1-12),Girls,13479,127095
+Delhi,Primary to Higher Secondary (1-12),Girls,624406,5855747
+Goa,Primary to Higher Secondary (1-12),Girls,14999,138836
+Gujarat,Primary to Higher Secondary (1-12),Girls,1699545,15350629
+Haryana,Primary to Higher Secondary (1-12),Girls,1280081,11848718
+Himachal Pradesh,Primary to Higher Secondary (1-12),Girls,210415,1907850
+Jammu and Kashmir,Primary to Higher Secondary (1-12),Girls,443000,4263385
+Jharkhand,Primary to Higher Secondary (1-12),Girls,550687,4456019
+Karnataka,Primary to Higher Secondary (1-12),Girls,2240316,18836518
+Kerala,Primary to Higher Secondary (1-12),Girls,690973,5815264
+Ladakh,Primary to Higher Secondary (1-12),Girls,11356,102987
+Lakshadweep,Primary to Higher Secondary (1-12),Girls,0,0
+Madhya Pradesh,Primary to Higher Secondary (1-12),Girls,2531453,23429011
+Maharashtra,Primary to Higher Secondary (1-12),Girls,2639321,23356618
+Manipur,Primary to Higher Secondary (1-12),Girls,187879,1516614
+Meghalaya,Primary to Higher Secondary (1-12),Girls,108365,895460
+Mizoram,Primary to Higher Secondary (1-12),Girls,58109,482184
+Nagaland,Primary to Higher Secondary (1-12),Girls,113241,951912
+Odisha,Primary to Higher Secondary (1-12),Girls,590321,4992557
+Puducherry,Primary to Higher Secondary (1-12),Girls,54798,474014
+Punjab,Primary to Higher Secondary (1-12),Girls,1077087,9967333
+Rajasthan,Primary to Higher Secondary (1-12),Girls,2917046,27590039
+Sikkim,Primary to Higher Secondary (1-12),Girls,15888,159641
+Tamil Nadu,Primary to Higher Secondary (1-12),Girls,2138757,18533635
+Telangana,Primary to Higher Secondary (1-12),Girls,1538617,12787850
+Tripura,Primary to Higher Secondary (1-12),Girls,48958,451557
+Uttar Pradesh,Primary to Higher Secondary (1-12),Girls,9318844,76521924
+Uttarakhand,Primary to Higher Secondary (1-12),Girls,496863,4495636
+Andaman and Nicobar Islands,Total (Pre-Primary to Higher Secondary),Boys,10762,73753
+Andhra Pradesh,Total (Pre-Primary to Higher Secondary),Boys,1833343,12051790
+Arunachal Pradesh,Total (Pre-Primary to Higher Secondary),Boys,52009,337736
+Assam,Total (Pre-Primary to Higher Secondary),Boys,856490,5654728
+Bihar,Total (Pre-Primary to Higher Secondary),Boys,1930948,11646204
+Chandigarh,Total (Pre-Primary to Higher Secondary),Boys,48414,305988
+Chhattisgarh,Total (Pre-Primary to Higher Secondary),Boys,881376,5804564
+Dadra and Nagar Haveli and Daman and Diu,Total (Pre-Primary to Higher Secondary),Boys,20331,127095
+Delhi,Total (Pre-Primary to Higher Secondary),Boys,941476,5855747
+Goa,Total (Pre-Primary to Higher Secondary),Boys,20891,138836
+Gujarat,Total (Pre-Primary to Higher Secondary),Boys,2386067,15350629
+Haryana,Total (Pre-Primary to Higher Secondary),Boys,1927140,11848718
+Himachal Pradesh,Total (Pre-Primary to Higher Secondary),Boys,297306,1907850
+Jammu and Kashmir,Total (Pre-Primary to Higher Secondary),Boys,677809,4263385
+Jharkhand,Total (Pre-Primary to Higher Secondary),Boys,729927,4456019
+Karnataka,Total (Pre-Primary to Higher Secondary),Boys,2802254,18836518
+Kerala,Total (Pre-Primary to Higher Secondary),Boys,841471,5815264
+Ladakh,Total (Pre-Primary to Higher Secondary),Boys,15623,102987
+Lakshadweep,Total (Pre-Primary to Higher Secondary),Boys,0,0
+Madhya Pradesh,Total (Pre-Primary to Higher Secondary),Boys,3667679,23429011
+Maharashtra,Total (Pre-Primary to Higher Secondary),Boys,3599537,23356618
+Manipur,Total (Pre-Primary to Higher Secondary),Boys,221327,1516614
+Meghalaya,Total (Pre-Primary to Higher Secondary),Boys,130162,895460
+Mizoram,Total (Pre-Primary to Higher Secondary),Boys,68679,482184
+Nagaland,Total (Pre-Primary to Higher Secondary),Boys,141462,951912
+Odisha,Total (Pre-Primary to Higher Secondary),Boys,752582,4992557
+Puducherry,Total (Pre-Primary to Higher Secondary),Boys,73787,474014
+Punjab,Total (Pre-Primary to Higher Secondary),Boys,1604819,9967333
+Rajasthan,Total (Pre-Primary to Higher Secondary),Boys,4454188,27590039
+Sikkim,Total (Pre-Primary to Higher Secondary),Boys,25465,159641
+Tamil Nadu,Total (Pre-Primary to Higher Secondary),Boys,2823713,18533635
+Telangana,Total (Pre-Primary to Higher Secondary),Boys,1909321,12787850
+Tripura,Total (Pre-Primary to Higher Secondary),Boys,70152,451557
+Uttar Pradesh,Total (Pre-Primary to Higher Secondary),Boys,11607534,76521924
+Uttarakhand,Total (Pre-Primary to Higher Secondary),Boys,700356,4495636
+Andaman and Nicobar Islands,Total (Pre-Primary to Higher Secondary),Girls,10040,73753
+Andhra Pradesh,Total (Pre-Primary to Higher Secondary),Girls,1488449,12051790
+Arunachal Pradesh,Total (Pre-Primary to Higher Secondary),Girls,42931,337736
+Assam,Total (Pre-Primary to Higher Secondary),Girls,738645,5654728
+Bihar,Total (Pre-Primary to Higher Secondary),Girls,1375309,11646204
+Chandigarh,Total (Pre-Primary to Higher Secondary),Girls,40105,305988
+Chhattisgarh,Total (Pre-Primary to Higher Secondary),Girls,762224,5804564
+Dadra and Nagar Haveli and Daman and Diu,Total (Pre-Primary to Higher Secondary),Girls,14892,127095
+Delhi,Total (Pre-Primary to Higher Secondary),Girls,683046,5855747
+Goa,Total (Pre-Primary to Higher Secondary),Girls,18222,138836
+Gujarat,Total (Pre-Primary to Higher Secondary),Girls,1769701,15350629
+Haryana,Total (Pre-Primary to Higher Secondary),Girls,1374727,11848718
+Himachal Pradesh,Total (Pre-Primary to Higher Secondary),Girls,238898,1907850
+Jammu and Kashmir,Total (Pre-Primary to Higher Secondary),Girls,557224,4263385
+Jharkhand,Total (Pre-Primary to Higher Secondary),Girls,577560,4456019
+Karnataka,Total (Pre-Primary to Higher Secondary),Girls,2350931,18836518
+Kerala,Total (Pre-Primary to Higher Secondary),Girls,782750,5815264
+Ladakh,Total (Pre-Primary to Higher Secondary),Girls,14135,102987
+Lakshadweep,Total (Pre-Primary to Higher Secondary),Girls,0,0
+Madhya Pradesh,Total (Pre-Primary to Higher Secondary),Girls,2855817,23429011
+Maharashtra,Total (Pre-Primary to Higher Secondary),Girls,2792868,23356618
+Manipur,Total (Pre-Primary to Higher Secondary),Girls,208839,1516614
+Meghalaya,Total (Pre-Primary to Higher Secondary),Girls,135505,895460
+Mizoram,Total (Pre-Primary to Higher Secondary),Girls,68533,482184
+Nagaland,Total (Pre-Primary to Higher Secondary),Girls,132029,951912
+Odisha,Total (Pre-Primary to Higher Secondary),Girls,608469,4992557
+Puducherry,Total (Pre-Primary to Higher Secondary),Girls,60193,474014
+Punjab,Total (Pre-Primary to Higher Secondary),Girls,1259578,9967333
+Rajasthan,Total (Pre-Primary to Higher Secondary),Girls,3130750,27590039
+Sikkim,Total (Pre-Primary to Higher Secondary),Girls,22116,159641
+Tamil Nadu,Total (Pre-Primary to Higher Secondary),Girls,2406234,18533635
+Telangana,Total (Pre-Primary to Higher Secondary),Girls,1605017,12787850
+Tripura,Total (Pre-Primary to Higher Secondary),Girls,58880,451557
+Uttar Pradesh,Total (Pre-Primary to Higher Secondary),Girls,9487914,76521924
+Uttarakhand,Total (Pre-Primary to Higher Secondary),Girls,538358,4495636
